@@ -1,4 +1,4 @@
-package q10807;
+package array.q10807;
 
 import java.io.BufferedReader;
 import java.io.IOException;

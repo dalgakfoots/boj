@@ -1,4 +1,4 @@
-package q3273;
+package array.q3273;
 
 import java.io.BufferedReader;
 import java.io.IOException;

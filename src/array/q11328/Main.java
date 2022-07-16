@@ -1,4 +1,4 @@
-package q11328;
+package array.q11328;
 
 import java.io.*;
 import java.util.StringTokenizer;

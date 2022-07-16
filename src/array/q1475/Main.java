@@ -1,4 +1,4 @@
-package q1475;
+package array.q1475;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package q10808;
+package array.q10808;
 
 import java.io.*;
 

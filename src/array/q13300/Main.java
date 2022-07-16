@@ -1,4 +1,4 @@
-package q13300;
+package array.q13300;
 
 import java.io.BufferedReader;
 import java.io.IOException;
